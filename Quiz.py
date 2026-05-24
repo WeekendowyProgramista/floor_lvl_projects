@@ -1,8 +1,6 @@
 import random
 from time import sleep
 
-from Programy.PLP.licznik_przetrwania import licznik_przetrwania
-
 question = [
     ('Jaki jest wynik działania 2+2',['a) 1','b) 2','c) 3','d) 4'], 3),
     ('Który język używamy do tworzenia stron WWW', ['a) Python','b) HTML','c) Java', 'd) SQL'], 1),
