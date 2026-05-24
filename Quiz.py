@@ -5,7 +5,8 @@ question = [
     ('Jaki jest wynik działania 2+2',['a) 1','b) 2','c) 3','d) 4'], 3),
     ('Który język używamy do tworzenia stron WWW', ['a) Python','b) HTML','c) Java', 'd) SQL'], 1),
     ('Ile nóg ma ma pająk', ['a) 8','b) 10', 'c) 12','d) 14'], 0),
-    ('Który kolor powstaje po zmieszaniu niebieskiego i zółtego', ['a) Pomarańczowy','b) Fioletowy','c) Zielony','d) Czerwony'], 2)
+    ('Który kolor powstaje po zmieszaniu niebieskiego i zółtego', ['a) Pomarańczowy','b) Fioletowy','c) Zielony','d) Czerwony'], 2),
+    ('Co oznacza skrót SQL', ['a) Simple Question Language', 'b) Structured Query Language', 'c) Strong Quick Logic','d) System Quality List'], 1),
 ]
 count = ('pierwsze', 'drugie', 'trzecie', 'czwarte', 'piąte')
 
